@@ -18,8 +18,8 @@
       "filename": "react.development.js",
       "bundleType": "NODE_DEV",
       "packageName": "react",
-      "size": 63522,
-      "gzip": 17094
+      "size": 63843,
+      "gzip": 17227
     },
     {
       "filename": "react.production.min.js",
@@ -60,15 +60,15 @@
       "filename": "react-dom.development.js",
       "bundleType": "NODE_DEV",
       "packageName": "react-dom",
-      "size": 778167,
-      "gzip": 177083
+      "size": 786533,
+      "gzip": 178559
     },
     {
       "filename": "react-dom.production.min.js",
       "bundleType": "NODE_PROD",
       "packageName": "react-dom",
-      "size": 108009,
-      "gzip": 34209
+      "size": 108169,
+      "gzip": 34270
     },
     {
       "filename": "ReactDOM-dev.js",
@@ -718,8 +718,8 @@
       "filename": "react-dom.profiling.min.js",
       "bundleType": "NODE_PROFILING",
       "packageName": "react-dom",
-      "size": 111156,
-      "gzip": 35048
+      "size": 111317,
+      "gzip": 35101
     },
     {
       "filename": "ReactNativeRenderer-profiling.js",
